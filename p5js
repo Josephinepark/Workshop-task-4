@@ -1,6 +1,6 @@
 let x = 100;
 let y = 0;
-let z = 25;
+let z = 1;
 
 function setup() {
   createCanvas(200, 500);
@@ -13,19 +13,19 @@ function draw() {
   fill(255, 255, 0)
   circle(100, y, z)
   
-  y = y + 50;
-  z = z + 8;
+  y = y + 6;
+  z = z + 4;
   
   if (y > 500){
     y = height
     
   }
   
-  else {y = y + 25;
-  z = z + 10;  
+  else {y = y + 15;
+  z = z - 2;  
        }
   
-  stroke(255, 255, 255)
+  {stroke(255, 255, 255)
   fill(0, 0, 0)
-  circle(x, y, z) 
+  triangle(20, 500, 180, 500, 100, 420);}
 }
