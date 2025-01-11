@@ -1,0 +1,31 @@
+let x = 100;
+let y = 0;
+let z = 25;
+
+function setup() {
+  createCanvas(200, 500);
+}
+
+function draw() {
+  background(0);
+  
+  stroke(255, 255, 255)
+  fill(255, 255, 0)
+  circle(100, y, z)
+  
+  y = y + 50;
+  z = z + 8;
+  
+  if (y > 500){
+    y = height
+    
+  }
+  
+  else {y = y + 25;
+  z = z + 10;  
+       }
+  
+  stroke(255, 255, 255)
+  fill(0, 0, 0)
+  circle(x, y, z) 
+}
