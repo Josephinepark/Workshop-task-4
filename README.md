@@ -1,2 +1,2 @@
-# Workshop-0
-Task 1
+# workshop-task-0
+Task 0
