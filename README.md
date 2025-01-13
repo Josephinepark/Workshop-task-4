@@ -1,5 +1,4 @@
 - # workshop-task-0
-- Task 0
 - After the first class on this course, I wanted to create a simplified sunset and sunrise. Something methaforic.
 - So, I reserched the circle code inputs and follow the class and workshop 0 video
 - At the begginig creating the shapes was easy, however, frustration started to appear when the animation did not look as I wanted.
