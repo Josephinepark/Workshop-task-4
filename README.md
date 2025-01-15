@@ -11,7 +11,7 @@ Synopsis
 
 Summary/Problem solving
 
-- I visited https://p5js.org/reference/p5/circle/ and reserched a bit about the circle, exploring some basic functions and the possibilities I could do with this shape.
+- I visited https://p5js.org/reference/p5/circle/ and researched a bit about the circle, exploring some basic functions and the possibilities I could do with this shape.
    
 <img width="790" alt="Circle" src="https://github.com/user-attachments/assets/343152ce-0314-4123-8322-5ffcf9c8968e" />
 
