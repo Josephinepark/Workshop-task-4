@@ -2,7 +2,7 @@
 
 # workshop 4 : Interactivity
 
-[Website Link] https://josephinepark.github.io/Workshop-task-4-fork-/
+[Website Link] https://josephinepark.github.io/Workshop-task-4/
 <br>
 <Br>
 I take my classmate's workshop 0 project and develop it response to the workshop 4 task.
